@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f248e4b-2a9a-40fe-b3ee-4a19a9757173" name="Changes" comment="add jupyter model" />
+    <list default="true" id="4f248e4b-2a9a-40fe-b3ee-4a19a9757173" name="Changes" comment="add jupyter model">
+      <change afterPath="$PROJECT_DIR$/iris_set.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -44,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.iris_set.executor": "Run",
     "Python.pytorch_model.executor": "Run",
     "Python.tensorflow_model.executor": "Run",
     "Python.test_install.executor": "Run",
@@ -74,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766504492634</updated>
       <workItem from="1766504494183" duration="1954000" />
-      <workItem from="1766506463252" duration="2443000" />
+      <workItem from="1766506463252" duration="3838000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -116,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766508884354</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add jupyter model">
+      <option name="closed" value="true" />
+      <created>1766508920082</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766508920082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +145,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/artificial_neural_networks_2025$pytorch_model.coverage" NAME="pytorch_model Coverage Results" MODIFIED="1766507240001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/artificial_neural_networks_2025$iris_set.coverage" NAME="iris_set Coverage Results" MODIFIED="1766509294615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/artificial_neural_networks_2025$tensorflow_model.coverage" NAME="tensorflow_model Coverage Results" MODIFIED="1766506755968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/artificial_neural_networks_2025$test_install.coverage" NAME="test_install Coverage Results" MODIFIED="1766506116622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
